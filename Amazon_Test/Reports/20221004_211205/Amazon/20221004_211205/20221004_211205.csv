@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon,Chrome 105.0.0.0,,,2022-10-04 21:12:09,2022-10-04 21:12:46,37.017s,FAILED
+,,,,,,,
+Test Cases/TestCase/LoginAmazon,Chrome 105.0.0.0,,,2022-10-04 21:12:09,2022-10-04 21:12:46,36.787s,FAILED
+"openBrowser(""https://www.amazon.com/"")",Chrome 105.0.0.0,,,2022-10-04 21:12:09,2022-10-04 21:12:14,4.447s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/a_Hello, sign in  Account  Lists""))",Chrome 105.0.0.0,,,2022-10-04 21:12:14,2022-10-04 21:12:46,31.910s,FAILED
